@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.71",
+        "laravolt/avatar": "^5.0",
+        "yohang88/letter-avatar": "^2.2"
+    }
+}
